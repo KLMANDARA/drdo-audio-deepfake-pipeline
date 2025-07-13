@@ -38,4 +38,16 @@ python generation/tacotron_waveglow_demo.py
 python detection/train_cnn_classifier.py
 python detection/evaluate_classifier.py
 ```
-        
+
+
+
+
+
+
+
+
+## 👤 Author
+
+**K L Mandara**  
+📧 [klmandara5@gmail.com](mailto:klmandara5@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/klmandara)       
